@@ -1,5 +1,9 @@
 # TYPLogin
 
+The app to date should look like this when open in the simulator:
+
+
+
 ##To create/install/run React Native Apps:
 
 The instructions are a bit different depending on your development operating system, and whether you want to start developing for iOS or Android. If you want to develop for both iOS and Android, that's fine - you just have to pick one to start with, since the setup is a bit different.
