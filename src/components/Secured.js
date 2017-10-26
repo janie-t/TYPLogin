@@ -5,11 +5,11 @@ import {
   View
 } from 'react-native';
 
-export default class Splash extends Component{
+export default class Secured extends Component{
   render() {
     return (
       <View style={styles.wrapper}>
-        <Text style={styles.header}>Kia Ora this is the Splash Page</Text>
+        <Text style={styles.header}>You are now logged in</Text>
       </View>
     );
   }
