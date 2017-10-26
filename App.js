@@ -13,7 +13,7 @@ import Secured from './src/components/Secured';
 export default class App extends Component<{}> {
 
   state = {
-    isLoggedIn: false
+    isLoggedIn: true
   }
 
   render() {
