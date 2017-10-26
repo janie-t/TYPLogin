@@ -2,7 +2,7 @@
 
 The app to date should look like this when open in the simulator:
 
-
+https://user-images.githubusercontent.com/19628512/32031259-90403cf2-ba5c-11e7-8cad-c552de27d742.png
 
 ##To create/install/run React Native Apps:
 
