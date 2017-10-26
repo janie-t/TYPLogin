@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>TYPLogin</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AdelleSans-Bold.otf</string>
+		<string>AdelleSans-BoldItalic.otf</string>
+		<string>AdelleSans-Italic.otf</string>
+		<string>AdelleSans.otf</string>
+		<string>AdelleSansEb-Italic.otf</string>
+		<string>AdelleSansEb.otf</string>
+		<string>AdelleSansHv-Italic.otf</string>
+		<string>AdelleSansHv.otf</string>
+		<string>AdelleSansLt-Italic.otf</string>
+		<string>AdelleSansLt.otf</string>
+		<string>AdelleSansSb-Italic.otf</string>
+		<string>AdelleSansSb.otf</string>
+		<string>AdelleSansTh-Italic.otf</string>
+		<string>AdelleSansTh.otf</string>
+		<string>AdelleSansUt-Italic.otf</string>
+		<string>AdelleSansUt.otf</string>
+		<string>AdelleSans_Bold.otf</string>
+		<string>AdelleSans_BoldItalic.otf</string>
+		<string>AdelleSans_Italic.otf</string>
+		<string>AdelleSansEb_Italic.otf</string>
+		<string>AdelleSansHv_Italic.otf</string>
+		<string>AdelleSansLt_Italic.otf</string>
+		<string>AdelleSansSb_Italic.otf</string>
+		<string>AdelleSansTh_Italic.otf</string>
+		<string>AdelleSansUt_Italic.otf</string>
+		<string>AdelleSans Bold.otf</string>
+		<string>AdelleSans BoldItalic.otf</string>
+		<string>AdelleSans Eb_Italic.otf</string>
+		<string>AdelleSans Eb.otf</string>
+		<string>AdelleSans Hv_Italic.otf</string>
+		<string>AdelleSans Hv.otf</string>
+		<string>AdelleSans Italic.otf</string>
+		<string>AdelleSans Lt_Italic.otf</string>
+		<string>AdelleSans Lt.otf</string>
+		<string>AdelleSans Sb_Italic.otf</string>
+		<string>AdelleSans Sb.otf</string>
+		<string>AdelleSans Th_Italic.otf</string>
+		<string>AdelleSans Th.otf</string>
+		<string>AdelleSans Ut_Italic.otf</string>
+		<string>AdelleSans Ut.otf</string>
+		<string>Adelle.otf</string>
+	</array>
+</dict>
+</plist>
