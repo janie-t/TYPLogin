@@ -68,9 +68,4 @@ You should see your new app running in the iOS Simulator shortly.
 
 react-native run-ios is just one way to run your app. You can also run it directly from within Xcode or Nuclide.
 
-If you can't get this to work, see the Troubleshooting page.
-
-##Running on a device 
-The above command will automatically run your app on the iOS Simulator by default. If you want to run the app on an actual physical iOS device, please follow the instructions here.
-
 
